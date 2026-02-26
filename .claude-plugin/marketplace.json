@@ -1,0 +1,43 @@
+{
+  "name": "appcraft-tools",
+  "owner": {
+    "name": "Vishal V. Shekkar",
+    "email": "work@vishalvshekkar.com"
+  },
+  "metadata": {
+    "description": "AI-powered tools for Apple developers — App Store optimization, metadata management, and more."
+  },
+  "plugins": [
+    {
+      "name": "app-store-toolkit",
+      "source": {
+        "source": "github",
+        "repo": "vishalvshekkar/app-store-toolkit"
+      },
+      "description": "AI-powered App Store Connect copy & metadata management. ASO copywriting, changelogs, localization, and two-way sync.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Vishal V. Shekkar"
+      },
+      "homepage": "https://github.com/vishalvshekkar/app-store-toolkit",
+      "repository": "https://github.com/vishalvshekkar/app-store-toolkit",
+      "license": "MIT",
+      "keywords": [
+        "app-store",
+        "aso",
+        "apple",
+        "ios",
+        "metadata",
+        "localization"
+      ],
+      "category": "developer-tools",
+      "tags": [
+        "app-store-connect",
+        "aso",
+        "copywriting",
+        "localization",
+        "ios-development"
+      ]
+    }
+  ]
+}
